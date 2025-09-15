@@ -14,7 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-```
+```python
 import numpy as x
 a=x.array([[1, -3], [3, 1]])
 b=x.array([0, 10])
